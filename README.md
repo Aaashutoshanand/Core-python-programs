@@ -50,9 +50,9 @@ It focuses on building a strong foundation in **Python programming, logical thin
 ### 🚀 Run Locally
 
 ```bash
-git clone https://github.com/your-username/python-task1.git
-cd python-task1
-python task1.py
+git clone https://github.com/Aaashutoshanand/python-Task_1.git
+cd python-Task_1
+python Task_1.py
 ```
 
 ---
