@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-This repository contains solutions to **Core Python Challenges** as part of my internship task.
+This repository contains solutions to **Core Python Challenges** as part of my First task.
 It focuses on building a strong foundation in **Python programming, logical thinking, and problem-solving**.
 
 ---
