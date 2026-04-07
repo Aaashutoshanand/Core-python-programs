@@ -1,6 +1,6 @@
 # Core-python-programs
-1.Sum of Two Numbers: A program that takes user input and calculates their sum.1
-2.Odd or Even Checker: A program to determine if a number is odd or even.2
+# 1.Sum of Two Numbers: A program that takes user input and calculates their sum.1
+# 2.Odd or Even Checker: A program to determine if a number is odd or even.2
 3.Factorial Calculation: A program to calculate factorials using either recursion or a loop.3
 4.Fibonacci Sequence: A program to generate the first n numbers of the sequence.4
 5.String Reverse: A program to reverse a string provided by the user.5
