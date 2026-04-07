@@ -1,4 +1,4 @@
-# 🐍 Python Programming Internship – Task 1
+# 🐍 Python Programming - Task 1
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
