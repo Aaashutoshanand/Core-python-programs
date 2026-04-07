@@ -103,7 +103,7 @@ Feel free to fork this repo and submit a pull request.
 ## 📬 Contact
 
 * GitHub: https://github.com/Aaashutoshanand
-* Email: [your-email@example.com](hshevsyhe@gmail.com)
+* Email: [hshevsyhe@gmail.com](mailto:hshevsyhe@gmail.com)
 
 ---
 
