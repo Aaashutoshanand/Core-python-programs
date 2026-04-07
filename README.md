@@ -47,14 +47,6 @@ It focuses on building a strong foundation in **Python programming, logical thin
 
 * Python 3.x installed → https://www.python.org/downloads/
 
-### 🚀 Run Locally
-
-```bash
-git clone https://github.com/Aaashutoshanand/python-Task_1.git
-cd python-Task_1
-python Task_1.py
-```
-
 ---
 
 ## 🎯 Skills Demonstrated
