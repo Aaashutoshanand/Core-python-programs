@@ -36,7 +36,7 @@ It focuses on building a strong foundation in **Python programming, logical thin
 ```bash
 .
 ├── README.md
-└── Task_1.py
+└── task1.py
 ```
 
 ---
