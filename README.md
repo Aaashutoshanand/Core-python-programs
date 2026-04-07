@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-This repository contains solutions to **Core Python Challenges** as part of my First task.
+This repository contains solutions to **Core Python Challenges** as part of my First task at maincrafts technology.
 It focuses on building a strong foundation in **Python programming, logical thinking, and problem-solving**.
 
 ---
