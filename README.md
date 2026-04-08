@@ -96,6 +96,7 @@ Feel free to fork this repo and submit a pull request.
 
 * GitHub: https://github.com/Aaashutoshanand
 * Email: [hshevsyhe@gmail.com](mailto:hshevsyhe@gmail.com)
+* Linkdin: https://www.linkedin.com/feed/update/urn:li:activity:7447232186811854848/
 
 ---
 
